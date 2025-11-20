@@ -1,0 +1,1095 @@
+{
+  "frames": {
+    "purple_button_00002.jpg": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00003.jpg": {
+      "frame": {
+        "x": 134,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00004.jpg": {
+      "frame": {
+        "x": 268,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00005.jpg": {
+      "frame": {
+        "x": 402,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00006.jpg": {
+      "frame": {
+        "x": 536,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00007.jpg": {
+      "frame": {
+        "x": 670,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00008.jpg": {
+      "frame": {
+        "x": 804,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00009.jpg": {
+      "frame": {
+        "x": 938,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00010.jpg": {
+      "frame": {
+        "x": 1072,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00011.jpg": {
+      "frame": {
+        "x": 1206,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00012.jpg": {
+      "frame": {
+        "x": 1340,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00013.jpg": {
+      "frame": {
+        "x": 1474,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00014.jpg": {
+      "frame": {
+        "x": 1608,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00015.jpg": {
+      "frame": {
+        "x": 1742,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00016.jpg": {
+      "frame": {
+        "x": 1876,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00017.jpg": {
+      "frame": {
+        "x": 0,
+        "y": 232,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00018.jpg": {
+      "frame": {
+        "x": 134,
+        "y": 232,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00019.jpg": {
+      "frame": {
+        "x": 268,
+        "y": 232,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00020.jpg": {
+      "frame": {
+        "x": 402,
+        "y": 232,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00021.jpg": {
+      "frame": {
+        "x": 536,
+        "y": 232,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00022.jpg": {
+      "frame": {
+        "x": 670,
+        "y": 232,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00023.jpg": {
+      "frame": {
+        "x": 804,
+        "y": 232,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00024.jpg": {
+      "frame": {
+        "x": 938,
+        "y": 232,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00025.jpg": {
+      "frame": {
+        "x": 1072,
+        "y": 232,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00026.jpg": {
+      "frame": {
+        "x": 1206,
+        "y": 232,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00027.jpg": {
+      "frame": {
+        "x": 1340,
+        "y": 232,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00028.jpg": {
+      "frame": {
+        "x": 1474,
+        "y": 232,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00029.jpg": {
+      "frame": {
+        "x": 1608,
+        "y": 232,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00030.jpg": {
+      "frame": {
+        "x": 1742,
+        "y": 232,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00031.jpg": {
+      "frame": {
+        "x": 1876,
+        "y": 232,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00032.jpg": {
+      "frame": {
+        "x": 0,
+        "y": 464,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00033.jpg": {
+      "frame": {
+        "x": 134,
+        "y": 464,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00034.jpg": {
+      "frame": {
+        "x": 268,
+        "y": 464,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00035.jpg": {
+      "frame": {
+        "x": 402,
+        "y": 464,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00036.jpg": {
+      "frame": {
+        "x": 536,
+        "y": 464,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00037.jpg": {
+      "frame": {
+        "x": 670,
+        "y": 464,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00038.jpg": {
+      "frame": {
+        "x": 804,
+        "y": 464,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00039.jpg": {
+      "frame": {
+        "x": 938,
+        "y": 464,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00040.jpg": {
+      "frame": {
+        "x": 1072,
+        "y": 464,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00041.jpg": {
+      "frame": {
+        "x": 1206,
+        "y": 464,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00042.jpg": {
+      "frame": {
+        "x": 1340,
+        "y": 464,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00043.jpg": {
+      "frame": {
+        "x": 1474,
+        "y": 464,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00044.jpg": {
+      "frame": {
+        "x": 1608,
+        "y": 464,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00045.jpg": {
+      "frame": {
+        "x": 1742,
+        "y": 464,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "purple_button_00046.jpg": {
+      "frame": {
+        "x": 1876,
+        "y": 464,
+        "w": 134,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 232
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "texture.jpg",
+    "format": "RGB888",
+    "size": {
+      "w": 2010,
+      "h": 696
+    },
+    "scale": 1
+  }
+}
